@@ -1,6 +1,8 @@
 # Deep learning lecture
 Comprehensive overview and discussion on modern deep learning architectures and recent advancements
 
+Impt notes: citations and references are not properly included yet. please do not distribute. 
+
 ### List of Topics
 1. Basics of Neural Network
     * Basic functional form
